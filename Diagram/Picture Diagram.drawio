@@ -139,7 +139,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RtVFxdorQ5_HA6AsqgON" name="Hadamard Gate Circuit">
-    <mxGraphModel dx="659" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1124" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,6 +241,24 @@
         </mxCell>
         <mxCell id="r9NvVvOsW9og6ZsGPggF-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="HPR -45&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;o&lt;/sup&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="60" x="540" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="r9NvVvOsW9og6ZsGPggF-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$|0 \bigr \rangle$$" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="r9NvVvOsW9og6ZsGPggF-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\frac{1}{\sqrt{2}}|0\bigr\rangle+\frac{1}{\sqrt{2}}|1\bigr\rangle$$" vertex="1">
+          <mxGeometry height="30" width="120" x="600" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="r9NvVvOsW9og6ZsGPggF-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\frac{1}{\sqrt{2}}|0\bigr\rangle-\frac{1}{\sqrt{2}}|1\bigr\rangle$$" vertex="1">
+          <mxGeometry height="30" width="120" x="600" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="r9NvVvOsW9og6ZsGPggF-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$|1 \bigr \rangle$$" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="r9NvVvOsW9og6ZsGPggF-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$|0 \bigr \rangle$$" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="r9NvVvOsW9og6ZsGPggF-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$|1 \bigr \rangle$$" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="305" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
